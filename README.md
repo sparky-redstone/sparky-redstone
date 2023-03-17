@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sparky-redstone
-- 👀 I’m interested in C, Python, Data structures, Data Science, game development, 
+- 👀 I’m skilled in C, Python, MySQL, Data structures, Data Science, game development, 
 - 🌱 I’m currently learning DBMS, SQL
 - 📫 How to reach me E-MAIL: banothunithin007@gmail.com
                      LinkedIn: linkedin.com/in/bnithin007
